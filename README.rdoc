@@ -17,4 +17,4 @@ You can use this plugin to show or hide solutions for an exercice.
 
 == License
 
-This plugin is released under the GPLv2.
+This plugin is released under the CeCILL-B license (http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html).
